@@ -1,7 +1,7 @@
 Isomorphic-App
 ==============
 
-Experimentation with webpack, react with server side rendering, backbone and asynchronous loading of routes on the client side.<br/><br/>
+Experimentation with webpack, react with server side rendering, backbone router and asynchronous loading of routes on the client side.<br/><br/>
 
 1. Uses require.ensure feature of webpack to load each route asynchronously,<br/>
 2. Uses react to do server side rendering.<br/><br/>
